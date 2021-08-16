@@ -10,8 +10,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <div class="tenor-gif-embed" data-postid="19427546" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/naruto-gif-19427546">Naruto GIF</a>from <a href="https://tenor.com/search/naruto-gifs">Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  <img align="right" alt="Rafa-yoda" src="http://gph.is/XKyfwo">
+
 
   
   ##
